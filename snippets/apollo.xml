@@ -5,7 +5,6 @@
             fetch="https://github.com/cepardov" />
 
     <project path="device/xiaomi/apollo-plus" name="device_xiaomi_apollo" remote="apollo" revision="eleven"/>
-    <project path="device/xiaomi/sm8250-common" name="device_xiaomi_sm8250-common" remote="pixel-devices-blobs" revision="eleven"/>
 
     <!--<project path="kernel/xiaomi/sm8250" name="android_kernel_xiaomi_sm8250" remote="apollo" revision="eleven"/>
     <project path="vendor/xiaomi" name="android_vendor_xiaomi_apollo" remote="apollo" revision="aosp-11"/>
