@@ -847,6 +847,4 @@
   <!-- Add all PixelExperience repos -->
   <include name="snippets/pixel.xml" />
 
-  <include name="snippets/apollo.xml" />
-
 </manifest>
