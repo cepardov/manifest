@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="device/samsung/universal8895-common" name="https://github.com/Total-Control-9985/android_device_samsung_universal8895-common" remote="github" revision="Havoc_11"/>
+    <project path="device/samsung/universal8895-common" name="Total-Control-9985/android_device_samsung_universal8895-common" remote="github" revision="Havoc_11"/>
     <project path="device/samsung_slsi/sepolicy" name="Total-Control-9985/android_device_samsung_slsi_sepolicy" remote="github" revision="Havoc_11"/>
     <project path="device/samsung/dreamlte" name="Total-Control-9985/android_device_samsung_dreamlte" remote="github" revision="Havoc_11"/>
     <project path="device/samsung/dream2lte" name="Total-Control-9985/android_device_samsung_dream2lte" remote="github" revision="Havoc_11"/>
