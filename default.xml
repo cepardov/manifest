@@ -1077,12 +1077,13 @@
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" />
 
   <!-- Remove unused AOSP repos -->
-  <!--<include name="snippets/remove.xml" />-->
+  <include name="snippets/remove.xml" />
 
   <!-- Add some LineageOS repos -->
   <include name="snippets/lineage.xml" />
 
-  <include name="snippets/android.xml" />
+  <!-- Add all PixelExperience repos -->
+  <include name="snippets/pixel.xml" />
 
   <!--<repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />-->
 </manifest>
