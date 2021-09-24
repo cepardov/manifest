@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote name="pixel-plus"
+            fetch="https://github.com/PixelExperience"
+            revision="eleven-plus"
+            review="gerrit.pixelexperience.org" />
+
+    <project path="vendor/aosp" name="vendor_aosp" remote="pixel-plus" />
+
+</manifest>
