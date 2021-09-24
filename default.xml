@@ -1082,8 +1082,7 @@
   <!-- Add some LineageOS repos -->
   <include name="snippets/lineage.xml" />
 
-  <!-- Add all PixelExperience repos -->
-  <include name="snippets/pixel.xml" />
+  <include name="snippets/android.xml" />
 
   <!--<repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />-->
 </manifest>
