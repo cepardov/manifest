@@ -1083,7 +1083,7 @@
   <!--<include name="snippets/lineage.xml" />-->
 
 
-  <!--<include name="snippets/android.xml" />-->
+  <include name="snippets/android.xml" />
 
   <!--<repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />-->
 </manifest>
