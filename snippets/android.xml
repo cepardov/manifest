@@ -4,6 +4,9 @@
     <remote name="apollo"
             fetch="https://github.com/cepardov" />
 
-    <project path="kernel/xiaomi/sm8250" name="kernel_xiaomi_sm8250" remote="pixel" revision="eleven" />
+    <project path="device/xiaomi/apollo" name="device_xiaomi_apollo" remote="apollo" revision="android-s" />
+    <project path="device/xiaomi/sm8250-common" name="device_xiaomi_sm8250-common" remote="apollo" revision="android-s" />
+    <project path="kernel/xiaomi/sm8250" name="kernel_xiaomi_sm8250" remote="apollo" revision="eleven" />
+    <!--<project path="" name="" remote="apollo" revision="eleven" />-->
 
 </manifest>
