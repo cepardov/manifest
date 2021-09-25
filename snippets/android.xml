@@ -4,10 +4,17 @@
     <remote name="apollo"
             fetch="https://github.com/cepardov" />
 
+    <remote name="pixel"
+            fetch="https://github.com/PixelExperience"
+            revision="eleven"
+            review="gerrit.pixelexperience.org" />
+
     <project path="device/xiaomi/apollo" name="device_xiaomi_apollo" remote="apollo" revision="android-s" />
     <project path="device/xiaomi/sm8250-common" name="device_xiaomi_sm8250-common" remote="apollo" revision="android-s" />
     <project path="kernel/xiaomi/sm8250" name="kernel_xiaomi_sm8250" remote="apollo" revision="eleven" />
     <project path="vendor/xiaomi" name="vendor_xiaomi_apollo" remote="apollo" revision="main" />
     <!--<project path="" name="" remote="apollo" revision="eleven" />-->
+
+    <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="pixel" />
 
 </manifest>
