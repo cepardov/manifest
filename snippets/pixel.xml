@@ -11,9 +11,9 @@
           revision="eleven-plus"
           review="gerrit.pixelexperience.org" />
 
-  <remote name="pixel-devices"
+  <!--<remote name="pixel-devices"
           fetch="https://github.com/PixelExperience-Devices"
-          revision="eleven" />
+          revision="eleven" />-->
 
   <remote name="pixel-gitlab"
           fetch="https://gitlab.com/PixelExperience"
@@ -23,9 +23,9 @@
           fetch="https://gitlab.pixelexperience.org/android"
           revision="eleven" />
 
-  <remote name="pixel-devices-blobs"
+  <!--<remote name="pixel-devices-blobs"
           fetch="https://gitlab.pixelexperience.org/android/vendor-blobs"
-          revision="eleven" />
+          revision="eleven" />-->
 
   <remote name="gitlab"
           fetch="https://gitlab.com" />
